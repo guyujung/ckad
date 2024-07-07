@@ -8,4 +8,4 @@ CKAD는 Certified Kubernetes Application Developer의 약자로, 쿠버네티스
 ## Course
 Udemy | Certified Kubernetes Administrator Developer (CKAD) with Practice Tests
 
-<https://www.udemy.com/course/certified-kubernetes-application-developer/learn/lecture>
+<https://www.udemy.com/course/certified-kubernetes-application-developer>
